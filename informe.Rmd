@@ -1,6 +1,6 @@
 ---
 # --- Metadatos Básicos ---
-title: "Título del Trabajo Finaddsacdfsvdfvl"
+title: "Título del Trabajo holaaaaaaaaaaaaaaaaaaaaa"
 author:
    - Primer participante
    - Segundo participante
